@@ -421,7 +421,7 @@ __help__ = """
 ☆............𝙱𝚈 » [𝚅𝙸𝙿 𝙱𝙾𝚈](https://t.me/the_vip_boy)............☆
  """
 
-__mod_name__ = "♨️ꜰʟᴏᴏᴅ♨️"
+__mod_name__ = "ꜰʟᴏᴏᴅ"
 
 FLOOD_BAN_HANDLER = MessageHandler(
     Filters.all & ~Filters.status_update & Filters.group, check_flood
