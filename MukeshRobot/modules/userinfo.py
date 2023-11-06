@@ -337,15 +337,15 @@ def info(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                "ᴅᴇᴠᴇʟᴏᴘᴇʀ", url="https://t.me/the_vip_boy"
+                                "𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥", url="https://t.me/Yumeko_Jabami_xbot"
                             ),
                             InlineKeyboardButton(
-                                "Dɪsᴀsᴛᴇʀ", url="https://t.me/vip_creators"
+                                "𝗗𝗜𝗦𝗔𝗦𝗧𝗘𝗥", url="https://t.me/bot_radicals"
                             ),
                         ],
                         [
                             InlineKeyboardButton(
-                                text="➕ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ➕",
+                                text="➕𝗞𝗜𝗗𝗡𝗔𝗣 𝗠𝗘➕",
                                 url=f"https://t.me/tg_manager_robot?startgroup=true",
                             ),
                         ],
@@ -363,15 +363,15 @@ def info(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                "ᴅᴇᴠᴇʟᴏᴘᴇʀ", url="https://t.me/the_vip_boy"
+                                "𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥", url="https://t.me/Yumeko_Jabami_xbot"
                             ),
                             InlineKeyboardButton(
-                                "ᴅɪsᴀsᴛᴇʀ", url="https://t.me/vip_creators"
+                                "𝗗𝗜𝗦𝗔𝗦𝗧𝗘𝗥", url="https://t.me/bot_radicals"
                             ),
                         ],
                         [
                             InlineKeyboardButton(
-                                text="➕ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ➕",
+                                text="➕𝗞𝗜𝗗𝗡𝗔𝗣 𝗠𝗘➕",
                                 url=f"https://t.me/tg_manager_robot?startgroup=true",
                             ),
                         ],
