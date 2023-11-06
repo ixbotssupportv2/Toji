@@ -66,6 +66,6 @@ __help__ = """
 ☆............𝙱𝚈 » [𝚅𝙸𝙿 𝙱𝙾𝚈](https://t.me/the_vip_boy)............☆
 """
 
-__mod_name__ = "⚡SᴘᴇᴇᴅTᴇsᴛ⚡​"
+__mod_name__ = "SᴘᴇᴇᴅTᴇsᴛ"
 __command_list__ = ["speedtest"]
 __handlers__ = [SPEED_TEST_HANDLER, SPEED_TEST_CALLBACKHANDLER]
