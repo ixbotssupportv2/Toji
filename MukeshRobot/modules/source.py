@@ -30,10 +30,10 @@ async def repo(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        "📍ᴏᴡɴᴇʀ📍",f"tg://user?id={OWNER_ID}"
+                        "ᴏᴡɴᴇʀ",f"tg://user?id={OWNER_ID}"
                     ),
                     InlineKeyboardButton(
-                        "📍ʀᴇᴘᴏ📍",
+                        "ʀᴇᴘᴏ",
                         url="https://github.com/THE-VIP-BOY-OP/VIP-ROBOT",
                     ),
                 ]
@@ -42,7 +42,7 @@ async def repo(client, message):
     )
 
 
-__mod_name__ = "⚡Rᴇᴩᴏ⚡"
+__mod_name__ = "Rᴇᴩᴏ"
 _help__ = """
  /repo  ᴛᴏ ɢᴇᴛ ʀᴇᴘᴏ 
  /source ᴛᴏ ɢᴇᴛ ʀᴇᴘᴏ
