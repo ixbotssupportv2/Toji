@@ -554,7 +554,7 @@ __help__ = """
  ❍ /kayo <ᴀɴɪᴍᴇ>*:* sᴇᴀʀᴄʜ ᴀɴ ᴀɴɪᴍᴇ ᴏɴ ᴀɴɪᴍᴇᴋᴀʏᴏ.ᴄᴏᴍ
  ❍ /airing <ᴀɴɪᴍᴇ>*:* ʀᴇᴛᴜʀɴs ᴀɴɪᴍᴇ ᴀɪʀɪɴɢ ɪɴғᴏ.
 
-☆............𝙱𝚈 » [𝚅𝙸𝙿 𝙱𝙾𝚈](https://t.me/the_vip_boy)............☆
+I Aᴍ A Fᴀsᴛ Aɴᴅ Aᴅᴠᴀɴᴄᴇ Bᴏᴛ.
 """
 
 ANIME_HANDLER = DisableAbleCommandHandler("anime", anime)
