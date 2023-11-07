@@ -14,7 +14,7 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message
 from pyrogram import Client, filters
 
 # Replace `YourRobot` with your robot and import pyrogram client from it.
-from YourRobot import pbot
+from MukeshRobot import pgram
 
 API_URL: str = "https://sasta-api.vercel.app/google_reverse"
 
