@@ -571,7 +571,7 @@ __help__ = """
  ❍ /info *:* ɢᴇᴛ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴀ ᴜsᴇʀ. 
  ❍ /myinfo *:* sʜᴏᴡs ɪɴғᴏ ᴀʙᴏᴜᴛ ᴛʜᴇ ᴜsᴇʀ ᴡʜᴏ sᴇɴᴛ ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ.
 
-☆............𝙱𝚈 » [𝚅𝙸𝙿 𝙱𝙾𝚈](https://t.me/the_vip_boy)............☆
+I Aᴍ A Fᴀsᴛ Aɴᴅ Aᴅᴠᴀɴᴄᴇ Bᴏᴛ.
 """
 
 SET_BIO_HANDLER = DisableAbleCommandHandler("setbio", set_about_bio)
@@ -594,7 +594,7 @@ dispatcher.add_handler(GET_BIO_HANDLER)
 dispatcher.add_handler(SET_ABOUT_HANDLER)
 dispatcher.add_handler(GET_ABOUT_HANDLER)
 
-__mod_name__ = "Iɴꜰᴏs"
+__mod_name__ = "𝗜𝗡𝗙𝗢𝗦"
 __command_list__ = ["setbio", "bio", "setme", "me", "info"]
 __handlers__ = [
     ID_HANDLER,
