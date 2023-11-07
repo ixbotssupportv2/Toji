@@ -79,9 +79,9 @@ async def _(event):
     os.remove(ik)
 
 
-__mod_name__ = "Tɪɴʏ"
+__mod_name__ = "𝗧𝗜𝗡𝗬"
 __help__ = """
 ❍  /tiny *:* ʀᴇᴘʟʏ ᴀ sᴛɪᴄᴋᴇʀ ᴀɴᴅ sᴇᴇ ᴍᴀɢɪᴄ
 
-☆............𝙱𝚈 » [𝚅𝙸𝙿 𝙱𝙾𝚈](https://t.me/the_vip_boy)............☆
+I Aᴍ A Fᴀsᴛ Aɴᴅ Aᴅᴠᴀɴᴄᴇ Bᴏᴛ.
 """
