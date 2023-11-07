@@ -86,21 +86,21 @@ PM_START_TEXT = """
 buttons = [
     [
         InlineKeyboardButton(
-            text="⛩ sᴜᴍᴍᴏɴ ᴍᴇ ⛩",
+            text="𝗞𝗜𝗗𝗡𝗔𝗣 𝗠𝗘",
             url=f"https://t.me/{dispatcher.bot.username}?startgroup=true",
         ),
     ],
     [
-        InlineKeyboardButton(text="ᴄᴏᴍᴍᴀɴᴅs", callback_data="help_back"),
-        InlineKeyboardButton(text="🎵 ᴍᴜsɪᴄ ʜᴇʟᴘ 🎵", callback_data="settings_back_helper"),
+        InlineKeyboardButton(text="𝗔𝗕𝗜𝗟𝗜𝗧𝗜𝗘𝗦", callback_data="help_back"),
+        InlineKeyboardButton(text="𝗠𝗨𝗦𝗜𝗖 𝗛𝗘𝗟𝗣", callback_data="settings_back_helper"),
     ],
     [
-        InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}"),
-        InlineKeyboardButton(text="ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/RADICALS_NETWORKS"),
+        InlineKeyboardButton(text="𝗦𝗨𝗣𝗣𝗢𝗥𝗧", url=f"https://t.me/{SUPPORT_CHAT}"),
+        InlineKeyboardButton(text="𝗨𝗣𝗗𝗔𝗧𝗘𝗦", url=f"https://t.me/RADICALS_NETWORKS"),
     ],
     [
 
-        InlineKeyboardButton(text="ᴀʙᴏᴜᴛ", callback_data="mukesh_"),
+        InlineKeyboardButton(text="𝗔𝗕𝗢𝗨𝗧", callback_data="mukesh_"),
     ],
 ]
 
@@ -224,11 +224,11 @@ def start(update: Update, context: CallbackContext):
                 PM_START_TEX.format(usr.first_name), parse_mode=ParseMode.MARKDOWN
             )
             time.sleep(0.4)
-            lol.edit_text("𝐒𝐭𝐚𝐫𝐭𝐢𝐧𝐠.")
+            lol.edit_text("sᴛᴀʀᴛɪɴɢ.")
             time.sleep(0.4)
-            lol.edit_text("𝐒𝐭𝐚𝐫𝐭𝐢𝐧𝐠..")
+            lol.edit_text("sᴛᴀʀᴛɪɴɢ..")
             time.sleep(0.4)
-            lol.edit_text("𝐒𝐭𝐚𝐫𝐭𝐢𝐧𝐠... ")
+            lol.edit_text("sᴛᴀʀᴛɪɴɢ... ")
             time.sleep(0.4)
             lol.delete()
             
