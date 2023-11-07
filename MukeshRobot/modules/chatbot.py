@@ -145,10 +145,10 @@ __help__ = f"""
 
  »  /ᴄʜᴀᴛʙᴏᴛ *:* sʜᴏᴡs ᴄʜᴀᴛʙᴏᴛ ᴄᴏɴᴛʀᴏʟ ᴘᴀɴᴇʟ
 
-☆............𝙱𝚈 » [𝚅𝙸𝙿 𝙱𝙾𝚈](https://t.me/the_vip_boy)............☆
+I Aᴍ A Fᴀsᴛ Aɴᴅ Aᴅᴠᴀɴᴄᴇ Bᴏᴛ.
 """
 
-__mod_name__ = "Cʜᴀᴛʙᴏᴛ"
+__mod_name__ = "𝗖𝗛𝗔𝗧𝗕𝗢𝗧"
 
 
 CHATBOTK_HANDLER = CommandHandler("chatbot", fallen)
