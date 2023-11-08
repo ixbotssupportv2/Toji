@@ -4,14 +4,14 @@ from telethon import Button, events
 
 from .. import telethn as asst
 
-BUTTON = [[Button.url("🍒 ꜱᴜᴘᴘᴏʀᴛ 🍒", "https://t.me/Yumeko_toxbot_support")]]
+BUTTON = [[Button.url("𝗦𝗨𝗣𝗣𝗢𝗥𝗧", "https://t.me/Yumeko_toxbot_support")]]
 HOT = "https://telegra.ph/file/daad931db960ea40c0fca.gif"
 SMEXY = "https://telegra.ph/file/a23e9fd851fb6bc771686.gif"
 LEZBIAN = "https://telegra.ph/file/5609b87f0bd461fc36acb.gif"
 BIGBALL = "https://i.gifer.com/8ZUg.gif"
 LANG = "https://telegra.ph/file/423414459345bf18310f5.gif"
 CUTIE = "https://64.media.tumblr.com/d701f53eb5681e87a957a547980371d2/tumblr_nbjmdrQyje1qa94xto1_500.gif"
-SLAP = "https://telegra.ph/file/1e89c2cb9a991d001917a.mp4"
+SLAP = "https://telegra.ph/file/1e89c2cb9a991d001917a.gif"
 
 @asst.on(events.NewMessage(pattern="/horny ?(.*)"))
 async def horny(e):
