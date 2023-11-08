@@ -825,7 +825,7 @@ def get_help(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                text="🍷𝐇𝐄𝐋𝐏🍷 ",
+                                text="𝗛𝗘𝗟𝗣",
                                 url="t.me/{}?start=ghelp_{}".format(
                                     context.bot.username, module
                                 ),
@@ -836,12 +836,12 @@ def get_help(update: Update, context: CallbackContext):
             )
             return
         update.effective_message.reply_text(
-            "» 𝐂𝐡𝐨𝐨𝐬𝐞 𝐀𝐧 𝐎𝐩𝐭𝐢𝐨𝐧 𝐅𝐨𝐫 𝐆𝐞𝐭𝐭𝐢𝐧𝐠 𝐇𝐞𝐥𝐩🏘",
+            "» 𝗖𝗛𝗢𝗢𝗦𝗘 𝗔𝗡 𝗢𝗣𝗧𝗜𝗢𝗡 𝗙𝗢𝗥 𝗚𝗥𝗢𝗨𝗣 𝗛𝗘𝗟𝗣",
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
                         InlineKeyboardButton(
-                            text="🍷𝐒𝐭𝐚𝐫𝐭 𝐈𝐧 𝐏𝐫𝐢𝐯𝐚𝐭𝐞🍷",
+                            text="𝗦𝗧𝗔𝗥𝗧 𝗜𝗡 𝗣𝗥𝗜𝗩𝗔𝗧𝗘",
                             url="https://t.me/{}?start=help".format(
                                 context.bot.username
                             ),
@@ -849,7 +849,7 @@ def get_help(update: Update, context: CallbackContext):
                     ],
                     [
                         InlineKeyboardButton(
-                            text="♨️𝐎𝐩𝐞𝐧 𝐇𝐞𝐫𝐞♨️",
+                            text="𝗢𝗣𝗘𝗡 𝗛𝗘𝗥𝗘",
                             callback_data="help_back",
                         )
                     ],
