@@ -30,7 +30,7 @@ Mukesh = [
     ],
 ]
 
-lol = "https://telegra.ph/file/cf9b96883f9414425d04e.jpg"
+lol = "https://telegra.ph/file/0f9f7ce4f5a227b3800f9.jpg"
 
 
 @pbot.on_message(filters.command("alive"))
