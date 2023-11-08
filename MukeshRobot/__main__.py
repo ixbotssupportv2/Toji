@@ -96,7 +96,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(text="𝗦𝗨𝗣𝗣𝗢𝗥𝗧", url=f"https://t.me/{SUPPORT_CHAT}"),
-        InlineKeyboardButton(text="𝗨𝗣𝗗𝗔𝗧𝗘𝗦", url=f"https://t.me/RADICALS_NETWORKS"),
+        InlineKeyboardButton(text="𝗨𝗣𝗗𝗔𝗧𝗘𝗦", url=f"https://t.me/Yumeko_toxbot_support"),
     ],
     [
 
@@ -400,7 +400,7 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
                         ),
                     ],
                     [
-                        InlineKeyboardButton(text="✯ вαϲк ✯", callback_data="mukesh_back"),
+                        InlineKeyboardButton(text="𝗕𝗔𝗖𝗞", callback_data="mukesh_back"),
                     ],
                 ]
             ),
@@ -488,7 +488,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
                 ),
             ],
                     [
-                        InlineKeyboardButton(text="✯ вαϲк ✯", callback_data="mukesh_back"),
+                        InlineKeyboardButton(text="𝗕𝗔𝗖𝗞", callback_data="mukesh_back"),
                     ],
                 ]
            ),
@@ -520,7 +520,7 @@ I Aᴍ A Fᴀsᴛ Aɴᴅ Aᴅᴠᴀɴᴄᴇ Bᴏᴛ.
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton(text="✯ вαϲк ✯", callback_data="Music_"),
+                        InlineKeyboardButton(text="𝗕𝗔𝗖𝗞", callback_data="Music_"),
                     ]
                 ]
             ),
@@ -545,7 +545,7 @@ I Aᴍ A Fᴀsᴛ Aɴᴅ Aᴅᴠᴀɴᴄᴇ Bᴏᴛ.
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton(text="✯ вαϲк ✯", callback_data="Music_"),
+                        InlineKeyboardButton(text="𝗕𝗔𝗖𝗞", callback_data="Music_"),
                     ]
                 ]
             ),
@@ -579,7 +579,7 @@ I Aᴍ A Fᴀsᴛ Aɴᴅ Aᴅᴠᴀɴᴄᴇ Bᴏᴛ.
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton(text="✯ вαϲк ✯", callback_data="Music_"),
+                        InlineKeyboardButton(text="𝗕𝗔𝗖𝗞", callback_data="Music_"),
                     ]
                 ]
             ),
@@ -608,7 +608,7 @@ I Aᴍ A Fᴀsᴛ Aɴᴅ Aᴅᴠᴀɴᴄᴇ Bᴏᴛ.
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton(text="✯ вαϲк ✯", callback_data="Music_"),
+                        InlineKeyboardButton(text="𝗕𝗔𝗖𝗞", callback_data="Music_"),
                     ]
                 ]
             ),
@@ -631,7 +631,7 @@ I Aᴍ A Fᴀsᴛ Aɴᴅ Aᴅᴠᴀɴᴄᴇ Bᴏᴛ.
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton(text="✯ вαϲк ✯", callback_data="Music_"),
+                        InlineKeyboardButton(text="𝗕𝗔𝗖𝗞", callback_data="Music_"),
                     ]
                 ]
             ),
@@ -661,7 +661,7 @@ I Aᴍ A Fᴀsᴛ Aɴᴅ Aᴅᴠᴀɴᴄᴇ Bᴏᴛ.
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton(text="✯ вαϲк ✯", callback_data="Music_"),
+                        InlineKeyboardButton(text="𝗕𝗔𝗖𝗞", callback_data="Music_"),
                     ]
                 ]
             ),
@@ -684,7 +684,7 @@ I Aᴍ A Fᴀsᴛ Aɴᴅ Aᴅᴠᴀɴᴄᴇ Bᴏᴛ.
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton(text="✯ вαϲк ✯", callback_data="Music_"),
+                        InlineKeyboardButton(text="𝗕𝗔𝗖𝗞", callback_data="Music_"),
                     ]
                 ]
             ),
@@ -705,7 +705,7 @@ I Aᴍ A Fᴀsᴛ Aɴᴅ Aᴅᴠᴀɴᴄᴇ Bᴏᴛ.
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton(text="✯ вαϲк ✯", callback_data="Music_"),
+                        InlineKeyboardButton(text="𝗕𝗔𝗖𝗞", callback_data="Music_"),
                     ]
                 ]
             ),
@@ -732,7 +732,7 @@ I Aᴍ A Fᴀsᴛ Aɴᴅ Aᴅᴠᴀɴᴄᴇ Bᴏᴛ.
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton(text="✯ вαϲк ✯", callback_data="Music_"),
+                        InlineKeyboardButton(text="𝗕𝗔𝗖𝗞", callback_data="Music_"),
                     ]
                 ]
             ),
@@ -768,7 +768,7 @@ I Aᴍ A Fᴀsᴛ Aɴᴅ Aᴅᴠᴀɴᴄᴇ Bᴏᴛ.
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton(text="✯ вαϲк ✯", callback_data="Music_"),
+                        InlineKeyboardButton(text="𝗕𝗔𝗖𝗞", callback_data="Music_"),
                     ]
                 ]
             ),
@@ -794,7 +794,7 @@ I Aᴍ A Fᴀsᴛ Aɴᴅ Aᴅᴠᴀɴᴄᴇ Bᴏᴛ.""",
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton(text="✯ вαϲк ✯", callback_data="Music_"),
+                        InlineKeyboardButton(text="𝗕𝗔𝗖𝗞", callback_data="Music_"),
                     ]
                 ]
             ),
@@ -870,7 +870,7 @@ def get_help(update: Update, context: CallbackContext):
             chat.id,
             text,
             InlineKeyboardMarkup(
-                [[InlineKeyboardButton(text="✯ вαϲк ✯", callback_data="help_back")]]
+                [[InlineKeyboardButton(text="𝗕𝗔𝗖𝗞", callback_data="help_back")]]
             ),
         )
 
@@ -1047,7 +1047,7 @@ def donate(update: Update, context: CallbackContext):
 
         if OWNER_ID != {OWNER_ID} and DONATION_LINK:
             update.effective_message.reply_text(
-                f"» ᴛʜᴇ ᴅᴇᴠᴇʟᴏᴩᴇʀ ᴏғ {dispatcher.bot.first_name} sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ɪs [VIP BOY](https://t.me/THE_VIP_BOY)"
+                f"» ᴛʜᴇ ᴅᴇᴠᴇʟᴏᴩᴇʀ ᴏғ {dispatcher.bot.first_name} sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ɪs [YUMIKO](https://t.me/GODD_TOBI)"
                 f"\n\nʙᴜᴛ ʏᴏᴜ ᴄᴀɴ ᴀʟsᴏ ᴅᴏɴᴀᴛᴇ ᴛᴏ ᴛʜᴇ ᴩᴇʀsᴏɴ ᴄᴜʀʀᴇɴᴛʟʏ ʀᴜɴɴɪɴɢ ᴍᴇ : [ʜᴇʀᴇ]({DONATION_LINK})",
                 parse_mode=ParseMode.MARKDOWN,
                 disable_web_page_preview=True,
