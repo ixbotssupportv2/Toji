@@ -20,7 +20,7 @@ async def repo(client, message):
 
 ɪ'ᴍ ᴀɴ ᴀɴɪᴍᴇ ᴛʜᴇᴍᴇᴅ ᴀᴅᴠᴀɴᴄᴇ ᴀ ᴘᴏᴡᴇʀғᴜʟ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ & ᴍᴜsɪᴄ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴜɪʟᴛ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴇᴀsɪʟʏ ᴀɴᴅ ᴛᴏ ᴘʀᴏᴛᴇᴄᴛ ʏᴏᴜʀ ɢʀᴏᴜᴘ ғʀᴏᴍ sᴄᴀᴍᴍᴇʀs ᴀɴᴅ sᴘᴀᴍᴍᴇʀs
 
-**[𝗩𝗜𝗣 𝗥𝗢𝗕𝗢𝗧](t.me/{dispatcher.bot.username}) sᴏᴜʀᴄᴇ ɪs ɴᴏᴡ ᴩᴜʙʟɪᴄ ᴀɴᴅ ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴍᴀᴋᴇ ʏᴏᴜʀ ᴏᴡɴ ʙᴏᴛ.**
+**[𝗬𝗨𝗠𝗜𝗞𝗢](t.me/{dispatcher.bot.username}) I Aᴍ A Fᴀsᴛ Aɴᴅ Aᴅᴠᴀɴᴄᴇ Bᴏᴛ.**
 """,
         reply_markup=InlineKeyboardMarkup(
             [
