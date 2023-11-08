@@ -392,11 +392,11 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
                 [
                     [
                         InlineKeyboardButton(
-                            text="ᴏᴡɴᴇʀ", url=f"https://t.me/GODD_TOBI"
+                            text="ᴏᴡɴᴇʀ", url=f"https://t.me/Yumeko_Jabami_xbot"
                         ),
                         InlineKeyboardButton(
                             text="sᴏᴜʀᴄᴇ", 
-                            url="https://github.com/DivideProjects/Alita_Robot"
+                            url="https://t.me/gaddri_mat_kar"
                         ),
                     ],
                     [
