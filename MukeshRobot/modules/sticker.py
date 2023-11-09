@@ -143,7 +143,7 @@ def kang(update: Update, context: CallbackContext):
         else:
             sticker_emoji = "☺️"
 
-        if not is_animated and not (is_video or is_gif):
+        if not is_animated:
             try:
                 im = Image.open(kangsticker)
                 maxsize = (512, 512)
