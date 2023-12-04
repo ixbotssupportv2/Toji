@@ -1,26 +1,25 @@
-import os
 import math
-import textwrap
-from cloudscraper import CloudScraper
+import os
 import urllib.request as urllib
-
-from PIL import Image, ImageFont, ImageDraw
 from html import escape
-from telegram import InlineKeyboardMarkup, InlineKeyboardButton
-from telegram.error import TelegramError
-from telegram import Update
-from telegram.ext import CallbackContext, CallbackQueryHandler
-from telegram.constants import ParseMode
-from telegram.helpers import mention_html
-from urllib.parse import quote as urlquote
-from bs4 import BeautifulSoup
 
-from MukeshRobot import REDIS, CUTIEPII_PTB, telethn, LOGGER
-from MukeshRobot.events import register as Cutiepii
+import requests
+from bs4 import BeautifulSoup as bs
+from PIL import Image
+from telegram import (
+    InlineKeyboardButton,
+    InlineKeyboardMarkup,
+    ParseMode,
+    TelegramError,
+    Update,
+)
+from telegram.ext import CallbackContext, run_async
+from telegram.utils.helpers import mention_html
+
+from MukeshRobot import dispatcher
 from MukeshRobot.modules.disable import DisableAbleCommandHandler
 
 combot_stickers_url = "https://combot.org/telegram/stickers?q="
-scraper = CloudScraper()
 
 
 def get_cbs_data(query, page, user_id):
