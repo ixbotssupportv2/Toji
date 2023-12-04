@@ -766,7 +766,7 @@ async def remove_fvrtsticker(update: Update,
 Credit = "Yūki • Black Knights Union"
 
 
-@Cutiepii(pattern="^/mmf ?(.*)")
+@MukeshRobot(pattern="^/mmf ?(.*)")
 async def handler(event):
     if event.fwd_from:
         return
