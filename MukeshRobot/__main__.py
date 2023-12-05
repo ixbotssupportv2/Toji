@@ -79,7 +79,7 @@ PM_START_TEXT = """
 
 ʜᴇʏ {} , [💞]({})
 
-ɪ'ᴍ ʏᴜᴍᴇᴋᴏ ᴊᴀʙᴀᴍɪ
+ɪ'ᴍ 𝙻𝚄𝙲𝙸𝙵𝙴𝚁
 ⌥ ɪ'ᴍ ᴀɴ ᴀɴɪᴍᴇ ᴛʜᴇᴍᴇᴅ ᴀᴅᴠᴀɴᴄᴇ ᴀ ᴘᴏᴡᴇʀғᴜʟ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ & ᴍᴜsɪᴄ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴜɪʟᴛ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴇᴀsɪʟʏ ᴀɴᴅ ᴛᴏ ᴘʀᴏᴛᴇᴄᴛ ʏᴏᴜʀ ɢʀᴏᴜᴘ ғʀᴏᴍ sᴄᴀᴍᴍᴇʀs ᴀɴᴅ sᴘᴀᴍᴍᴇʀs.
 """
 
@@ -330,7 +330,7 @@ def help_button(update, context):
                 parse_mode=ParseMode.MARKDOWN,
                 disable_web_page_preview=True,
                 reply_markup=InlineKeyboardMarkup(
-                    [[InlineKeyboardButton(text="✯ вαϲк ✯", callback_data="help_back")]]
+                    [[InlineKeyboardButton(text="𝗕𝗔𝗖𝗞", callback_data="help_back")]]
                 ),
             )
 
@@ -377,7 +377,7 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
     if query.data == "mukesh_":
         uptime = get_readable_time((time.time() - StartTime))
         query.message.edit_text(
-            text=f"*ʜᴇʏ,*🥀\n  *ᴛʜɪs ɪs {dispatcher.bot.first_name}*"
+            text=f"*ʜᴇʏ,*🪺\n  *ᴛʜɪs ɪs {dispatcher.bot.first_name}*"
             "\n\n*ᴀ ᴘᴏᴡᴇʀꜰᴜʟ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ & ᴍᴜsɪᴄ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴜɪʟᴛ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴇᴀꜱɪʟʏ ᴀɴᴅ ᴛᴏ ᴘʀᴏᴛᴇᴄᴛ ʏᴏᴜʀ ɢʀᴏᴜᴘ ꜰʀᴏᴍ ꜱᴄᴀᴍᴍᴇʀꜱ ᴀɴᴅ ꜱᴘᴀᴍᴍᴇʀꜱ.*"
             "\n*ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩʏᴛʜᴏɴ ᴡɪᴛʜ sǫʟᴀʟᴄʜᴇᴍʏ ᴀɴᴅ ᴍᴏɴɢᴏᴅʙ ᴀs ᴅᴀᴛᴀʙᴀsᴇ.*"
             "\n➲  ɪ ᴄᴀɴ ʀᴇꜱᴛʀɪᴄᴛ ᴜꜱᴇʀꜱ."
@@ -396,7 +396,7 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
                         ),
                         InlineKeyboardButton(
                             text="sᴏᴜʀᴄᴇ", 
-                            url="https://t.me/gaddri_mat_kar"
+                            url="https://t.me/yumiko_source"
                         ),
                     ],
                     [
@@ -422,7 +422,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
     if query.data == "Music_":
         query.message.edit_text(
             text=f"""
- **👀𝐇𝐞𝐲 𝐁𝐚𝐛𝐲 🖤\n\n🌺𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐓𝐨 {dispatcher.bot.first_name} 🍷\n\n🌹𝐈 𝐀𝐦 𝐀𝐧 📀 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 🎭 𝐀𝐧𝐝 🌱 𝐒𝐮𝐩𝐞𝐫𝐟𝐚𝐬𝐭 🌼 𝐕𝐂 🍄 𝐏𝐥𝐚𝐲𝐞𝐫 📣 𝐖𝐢𝐭𝐡 🕙 24𝐱7 🌀 𝐀𝐜𝐭𝐢𝐯𝐞 » 𝐅𝐨𝐫 🗨️ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 ♨️ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🎸 𝐀𝐧𝐝 🏓 𝐆𝐫𝐨𝐮𝐩𝐬 🎻\n\n💐𝐅𝐞𝐞𝐥 😍 𝐋𝐚𝐠 📍 𝐅𝐫𝐞𝐞 😇 𝐓𝐨 🕊️ 𝐀𝐝𝐝 𝐌𝐞 𝐈𝐧 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 🤖 𝐀𝐧𝐝 🩸 𝐄𝐧𝐣𝐨𝐲 ❥︎ 𝐒𝐮𝐩𝐞𝐫 💥 𝐇𝐢𝐠𝐡 💫 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 🦞 𝐀𝐮𝐝𝐢𝐨 🎧 𝐀𝐧𝐝 🔊 𝐕𝐢𝐝𝐞𝐨 🌷\n\n☆............𝙱𝚈 » [νเρ Βσყ](https://t.me/the_vip_boy)............☆ 💞** 
+ **𝙷𝚎𝚢 𝚋𝚋𝚢 💋\n\n🇮🇳Welcome to {dispatcher.bot.first_name} 🍷\n\n🌹𝙸 𝚊𝚖 𝚊 𝚊𝚍𝚟𝚊𝚗𝚌𝚎 𝚊𝚗𝚍 𝚜𝚞𝚙𝚎𝚛𝚏𝚊𝚜𝚝 𝚟𝚌 𝚙𝚕𝚊𝚢𝚎𝚛 𝚠𝚒𝚝𝚑 24×7 𝙰𝚌𝚌𝚝𝚒𝚟𝚎 𝚏𝚘𝚛 𝚝𝚎𝚕𝚎𝚐𝚛𝚊𝚖 𝚌𝚑𝚊𝚗𝚗𝚎𝚕 𝚊𝚗𝚍 𝚐𝚛𝚘𝚞𝚙𝚜🎻\n\n 💋 \n\n☆............𝙱𝚈 » [𝑨𝑲𝑨𝒁𝑨](https://t.me/shadow_2nd_supreme)............☆ 💞** 
 """,
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -431,59 +431,59 @@ def Music_about_callback(update: Update, context: CallbackContext):
                     [
                         
                 InlineKeyboardButton(
-                    text="🍁αԃɱιɳ🍁",
+                    text="🍁𝗔𝗗𝗠𝗜𝗡🍁",
                     callback_data="Music_1",
                 ),
                 InlineKeyboardButton(
-                    text="🔺αυƭɦ🔺",
+                    text="🔺𝗔𝗨𝗧𝗛🔺",
                     callback_data="Music_2",
                 ),
             
                 InlineKeyboardButton(
-                    text="♨️вℓσ¢к♨️",
+                    text="♨️𝗕𝗟𝗢𝗖𝗞♨️",
                     callback_data="Music_3",
                 ),
             ],
             [
                 InlineKeyboardButton(
-                    text="📣ɠ¢αʂƭ📣",
+                    text="📣𝗚𝗖𝗔𝗦𝗧📣",
                     callback_data="Music_4",
                 ),
                 InlineKeyboardButton(
-                    text="🚫ɠɓαɳ🚫",
+                    text="🚫𝗚𝗕𝗔𝗡🚫",
                     callback_data="Music_5",
                 ),
                 InlineKeyboardButton(
-                    text="🍷ℓყɾเ¢ʂ🍷",
+                    text="🍷𝗟𝗬𝗥𝗜𝗖𝗦🍷",
                     callback_data="Music_6",
                 ),
             ],
             [
                 InlineKeyboardButton(
-                    text="🎙️քℓαყℓเʂƭ🎙️",
+                    text="🎙️𝗣𝗟𝗔𝗬𝗟𝗜𝗦𝗧🎙️",
                     callback_data="Music_7",
                 ),
                 InlineKeyboardButton(
-                    text="🎸ѵσเ¢ε-¢ɦαƭ🎸",
+                    text="🎸𝗩𝗢𝗜𝗖𝗘 𝗖𝗛𝗔𝗧𝗦🎸",
                     callback_data="Music_8",
                 ),
             ],
             [
            
                 InlineKeyboardButton(
-                    text="🕹️ρℓαყ🕹️",
+                    text="🕹️𝗣𝗟𝗔𝗬🕹️",
                     callback_data="Music_9",
                 ),
             
             
                 InlineKeyboardButton(
-                    text="🍸ʂ𝖚∂σ🍸",
+                    text="🍸𝗦𝗨𝗗𝗢🍸",
                     callback_data="Music_10",
                 ),
             ],
             [
                 InlineKeyboardButton(
-                    text="⚜️SƬΛᏒƬ⚜️",
+                    text="⚜️𝗦𝗧𝗔𝗥𝗧⚜️",
                     callback_data="Music_11",
                 ),
             ],
@@ -495,7 +495,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
         )
     elif query.data == "Music_1":
         query.message.edit_text(
-            text=f"*» 🎄ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅꜱ🎄 «*"
+            text=f"*» 🫦𝙰𝙳𝙼𝙸𝙽𝚂 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂🫦 «*"
             f"""
 
 
