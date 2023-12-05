@@ -9,7 +9,7 @@ from telethon import __version__ as s
 from MukeshRobot import OWNER_ID, dispatcher
 from MukeshRobot import pbot as client
 
-Mukesh = "https://telegra.ph/file/3291a313c3e5a44bf3728.jpg"
+Mukesh = "https://telegra.ph/file/66bfe7054b5d0481f3a6b.jpg"
 
 
 @client.on_message(filters.command(["repo", "source"]))
@@ -20,7 +20,7 @@ async def repo(client, message):
 
 ɪ'ᴍ ᴀɴ ᴀɴɪᴍᴇ ᴛʜᴇᴍᴇᴅ ᴀᴅᴠᴀɴᴄᴇ ᴀ ᴘᴏᴡᴇʀғᴜʟ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ & ᴍᴜsɪᴄ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴜɪʟᴛ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴇᴀsɪʟʏ ᴀɴᴅ ᴛᴏ ᴘʀᴏᴛᴇᴄᴛ ʏᴏᴜʀ ɢʀᴏᴜᴘ ғʀᴏᴍ sᴄᴀᴍᴍᴇʀs ᴀɴᴅ sᴘᴀᴍᴍᴇʀs
 
-**[𝗬𝗨𝗠𝗜𝗞𝗢](t.me/{dispatcher.bot.username}) I Aᴍ A Fᴀsᴛ Aɴᴅ Aᴅᴠᴀɴᴄᴇ Bᴏᴛ.**
+**[𝗟𝗨𝗖𝗜𝗙𝗘𝗥](t.me/{dispatcher.bot.username}) I Aᴍ A Fᴀsᴛ Aɴᴅ Aᴅᴠᴀɴᴄᴇ Bᴏᴛ.**
 """,
         reply_markup=InlineKeyboardMarkup(
             [
@@ -30,7 +30,7 @@ async def repo(client, message):
                     ),
                     InlineKeyboardButton(
                         "ʀᴇᴘᴏ",
-                        url="https://t.me/gaddri_mat_kar",
+                        url="https://t.me/yumiko_source",
                     ),
                 ]
             ]
